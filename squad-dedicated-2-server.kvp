@@ -1,5 +1,5 @@
-Meta.DisplayName=Squad (Floki)
-Meta.Description=Squad Dedicated Server (Floki)
+Meta.DisplayName=Squad TEST
+Meta.Description=Squad Dedicated Server TEST
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
@@ -27,7 +27,7 @@ Meta.BreakingReleaseNotes=
 Meta.AppConfigId=ddb38381-7434-43e2-8919-3c394b1932b1
 Meta.ImportableExtensions=[]
 Meta.AppIsMultiIPAware=True
-App.DisplayName=Squad (Floki)
+App.DisplayName=Squad TEST
 App.RootDir=./squad-dedicated-server/
 App.BaseDirectory=./squad-dedicated-server/403240/
 App.StoresSupported=SteamWorkshop
